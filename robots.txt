@@ -1,0 +1,8 @@
+# robots.txt for Findmate Viewer
+# Allow all crawlers full access to the read-only findmate.app profile archive/viewer.
+User-agent: *
+Allow: /
+
+# TODO: replace the placeholder base URL below with your real GitHub Pages URL,
+# e.g. https://<user>.github.io/<repo>/sitemap.xml
+Sitemap: https://cottage352.github.io/fms/sitemap.xml

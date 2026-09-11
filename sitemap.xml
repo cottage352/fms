@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap for Findmate Viewer.
+  TODO: replace the placeholder base URL below with your real GitHub Pages URL,
+  e.g. https://<user>.github.io/<repo>/
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://cottage352.github.io/fms/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
